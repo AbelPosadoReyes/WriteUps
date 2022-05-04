@@ -1,13 +1,3 @@
-author: Abel Posado Reyes
-summary: TryHackMe Pickle Rick
-id: PickeRick
-categories: codelab,markdown
-environments: Web
-status: Published
-feedback link: Un enlace en el que los usuarios puedan darte feedback (quizás creando un issue en un repositorio de git)
-analytics account: ID de Google Analytics
-
-
 # Write Up Pickle Rick
 
 ¡Hola! Vamos a realizar la maquina Pickle Rick de Tryhackme.
